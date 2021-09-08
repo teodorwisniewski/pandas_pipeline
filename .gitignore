@@ -1,0 +1,7 @@
+
+
+*.csv
+*.zip
+.ipynb_checkpoints
+gadm36_AUT_gpkg
+*.sql
